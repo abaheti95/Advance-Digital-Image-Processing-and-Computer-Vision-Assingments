@@ -1,3 +1,4 @@
+The images are not present in the zip file. They are to be added externally
 There is only a single assignment file
 Code uses OpenCV, Matplotlib and numpy
 There is an openCV bug related to closing of windows but it doesn't affect the outputs of different parts
